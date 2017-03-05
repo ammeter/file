@@ -2,7 +2,7 @@
 
 I ran this task on MacBook Air, and got these results:
 
-|Task			              | Time    |
+|Task| Time|
 |-----------------------|-----------:|
 |Copy the file one byte at a time | 2.089328 sec |
 |Copy the file using a byte array of size 1 KB | 0.010620 sec |
